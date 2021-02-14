@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\19-ucim-se-2021-02-14\DU-4-02-Book\stuff\library\obj\Debug\library.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\19-ucim-se-2021-02-14\DU-4-02-Book\stuff\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\19-ucim-se-2021-02-14\DU-4-02-Book\stuff\library\bin\Debug\library.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\19-ucim-se-2021-02-14\DU-4-02-Book\stuff\library\bin\Debug\library.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\19-ucim-se-2021-02-14\DU-4-02-Book\stuff\library\bin\Debug\library.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\19-ucim-se-2021-02-14\DU-4-02-Book\stuff\library\obj\Debug\library.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\19-ucim-se-2021-02-14\DU-4-02-Book\stuff\library\obj\Debug\library.pdb
